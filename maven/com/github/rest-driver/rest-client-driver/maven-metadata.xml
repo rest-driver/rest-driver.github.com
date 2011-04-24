@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.github.rest-driver</groupId>
+  <artifactId>rest-client-driver</artifactId>
+  <versioning>
+    <release>0.0.2</release>
+    <versions>
+      <version>0.0.1</version>
+      <version>0.0.2</version>
+    </versions>
+    <lastUpdated>20110424002931</lastUpdated>
+  </versioning>
+</metadata>
