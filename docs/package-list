@@ -1,5 +1,6 @@
 com.github.restdriver
 com.github.restdriver.clientdriver
+com.github.restdriver.clientdriver.capture
 com.github.restdriver.clientdriver.example
 com.github.restdriver.clientdriver.exception
 com.github.restdriver.clientdriver.jetty
